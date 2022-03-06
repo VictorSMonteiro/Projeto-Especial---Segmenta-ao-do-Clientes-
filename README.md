@@ -1,20 +1,17 @@
-# Projeto-especial
+### README
 
-Projeto esp
-teste tiago 2
+Projeto especial desenvolvido sob orientação do professor Abrantes Araújo Silva Filho como requisito da disciplina Projeto Especial da pós-graduação em Data Science do Centro Universitário FAESA, com o objetivo de identificar uma oportunidade ou problema real e, através do desenvolvimento de um projeto ou produto de dados, propor uma inovação para a oportunidade identificada ou uma solução para o problema encontrado.
 
-teste victor 22:10
+###     Arquivos
 
-teste 0/11/2021
+- Dataset
+  - Mall_Customers.csv
+- Files
+  - ProjetoSegmentacao.ipynb
+- Readme
+  - README.md
 
-Teste henry 10/11/2021
+###     Autores
 
-teste 11.11.2021
-
-teste 17.11 victor
-
-teste 22.11 tiago
-
-teste 22.11 tiago 2
-
-Tem que fazer o README henry tiago e victor
+####    Henry Frederick Ridwan Surjadi, Tiago Sessa Brioschi e Victor Sampaio Monteiro
+####    05 de Março de 2022
