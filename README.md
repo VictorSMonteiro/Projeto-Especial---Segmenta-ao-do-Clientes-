@@ -6,3 +6,12 @@ Projeto especial desenvolvido sob orientação do professor Abrantes Araújo Sil
 
 ####    Henry Frederick Ridwan Surjadi, Tiago Sessa Brioschi e Victor Sampaio Monteiro
 ####    05 de Março de 2022
+
+###     Arquivos
+
+- Dataset
+  - Mall_Customers.csv
+- Files
+  - ProjetoSegmentacao.ipynb
+- Reamde
+  - README.md
