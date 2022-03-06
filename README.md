@@ -13,5 +13,5 @@ Projeto especial desenvolvido sob orientação do professor Abrantes Araújo Sil
   - Mall_Customers.csv
 - Files
   - ProjetoSegmentacao.ipynb
-- Reamde
+- Readme
   - README.md
